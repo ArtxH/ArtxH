@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Arturo Guzmán  
+🔌 Electronics & Electrical Technician | Future IT & Systems Engineer  
+🛠️ Embedded Systems | Networking & IT Support | Automation | Homelab Enthusiast  
 
-<!--
-**ArtxH/ArtxH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical hardware and IT solutions, from microcontroller-based systems to network infrastructure and virtualization labs.  
+My focus is hands-on engineering: creating reliable, real-world systems that integrate electronics, software, and scalable IT environments.
 
-Here are some ideas to get you started:
+💡 Projects & interests  
+• Microcontrollers (STM32, RP2040, Arduino) & embedded C/Python  
+• Sensor systems & signal processing (EFM lightning detection, IoT sensing)  
+• PCB design & prototyping  
+• IT support | Networking | Linux servers | Virtualization (Proxmox)  
+• Industrial automation components & control fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Systems Engineering student  
+🔒 Focus: Hardware-software integration & professional IT infrastructure  
+🌍 Dominican Republic  
+
+📁 This GitHub is my portfolio of real projects, labs, and engineering experiments.
